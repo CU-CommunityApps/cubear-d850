@@ -6,4 +6,6 @@ _core:
   default_config_hash: laG7BQTzUY7dXq_Zl7u6P4xDBgflQIA5IpS0RAwhs8U
 id: slideshow_slide
 label: 'Slideshow slide'
+icon_uuid: null
+description: null
 behavior_plugins: {  }
